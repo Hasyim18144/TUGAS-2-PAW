@@ -1,0 +1,22 @@
+<?php
+// mmbuat fungsi
+function perkenalan(){
+  echo "Assalamulaikum, ";
+  echo "Perkenalkan, nama saya M. Hasyim Asari<br/>";
+  echo "Alamat saya dari Sampang<br/>";
+  echo "Hobi sepak bola<br/>";
+}
+
+// memanggil fungsi yang sudah dibuat
+perkenalan();
+
+echo "<hr>";
+
+// memanggilnya lagi
+perkenalan();
+// memanggil fungsi yang sudah dibuat
+echo "<hr>";
+
+// memanggilnya lagi
+perkenalan();
+?>

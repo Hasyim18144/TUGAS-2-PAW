@@ -1,0 +1,6 @@
+<?php 
+$a = 5;
+$b = 10;
+//Operator pengurangan variabel a dengan variabel b
+echo $a - $b;
+?>
